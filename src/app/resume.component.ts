@@ -4,7 +4,8 @@ import {HomeComponent} from './home.component';
 
 
 @Component({
-  selector: 'my-app',
-  templateUrl:'./app.component.html',
+  selector: 'resume-app',
+  templateUrl:'./resume.component.html',
+  styleUrls:['./resume.component.css']
 })
-export class AppComponent  { name = 'Angular'; }
+export class ResumeComponent  {  }

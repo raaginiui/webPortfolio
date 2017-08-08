@@ -25,6 +25,10 @@ constructor(private http :Http){
       .map(res =>res.json());
 
   }
+
+  getcatag(id){
+    return this.http.get("https://development-5978e.firebaseio.com/"+id+"/categories/.json").map(res =>res.json());
+  }
     
 
 

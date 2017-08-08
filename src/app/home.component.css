@@ -2,6 +2,21 @@ body {
 font-family: 'Open Sans', sans-serif;  
 }
 @media (max-width: 768px) { 
+  .sec-home {
+  text-align: center;
+  background: url('https://images.pexels.com/photos/374710/pexels-photo-374710.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center fixed;
+ 
+ 
+ 
+   background-position: center ;
+   background-size: cover;  
+           background-attachment: fixed;
+           background-position: center center;
+           background-repeat: no-repeat;
+           height:700px;
+           width: 100%;
+  
+}
 .sec-home h2 {
   text-align: center;
   color: #fff;
@@ -11,7 +26,7 @@ font-family: 'Open Sans', sans-serif;
   text-shadow: #300 4px 4px;
 }
 #about{
-	height: 400px;
+	height: 600px;
 }
 #about .img-circle{
 	margin-top: 100px;
@@ -35,7 +50,21 @@ font-family: 'Open Sans', sans-serif;
 
  @media (min-width: 992px)
   { 
-
+.sec-home {
+  text-align: center;
+  background: url('https://images.pexels.com/photos/374710/pexels-photo-374710.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center fixed;
+ 
+ 
+ 
+   background-position: center ;
+   background-size: cover;  
+           background-attachment: fixed;
+           background-position: center center;
+           background-repeat: no-repeat;
+           height:900px;
+           width: 100%;
+  
+}
 .sec-home h2 {
   text-align: center;
   color: #fff;
@@ -78,21 +107,7 @@ font-family: 'Open Sans', sans-serif;
   margin-right: auto;
 }
 
-.sec-home {
-  text-align: center;
-  background: url('https://images.pexels.com/photos/374710/pexels-photo-374710.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center fixed;
- 
- 
- 
-   background-position: center ;
-   background-size: cover;  
-           background-attachment: fixed;
-           background-position: center center;
-           background-repeat: no-repeat;
-           height:900px;
-           width: 100%;
-  
-}
+
 
 
 .sec-home p {

@@ -5,6 +5,8 @@ import {HomeComponent} from './home.component';
 
 @Component({
   selector: 'my-app',
-  templateUrl:'./app.component.html',
+  template:`
+  <router-outlet></router-outlet>
+  `,
 })
-export class AppComponent  { name = 'Angular'; }
+export class DashboardComponent  { name = 'Angular'; }

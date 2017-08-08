@@ -2,8 +2,9 @@ import{Route,Routes,RouterModule} from '@angular/router';
 import{ModuleWithProviders} from '@angular/core';
 import {HomeComponent} from './home.component';
 import {PortfolioComponent} from './portfolio.component';
-
-
+import{DetailsComponent} from './detail.component';
+import{DashboardComponent} from './dashboard.component';
+import{ResumeComponent} from './resume.component'
 
 export const routes:Routes = [
      {
@@ -17,8 +18,24 @@ export const routes:Routes = [
       
     },
     {
+          path:'resume',
+        component: ResumeComponent,
+
+    },
+    {
         path:'portfolio',
-        component: PortfolioComponent,
+        component: DashboardComponent,
+children:[
+            { 
+                path:'',
+                component:PortfolioComponent,
+            },
+            {
+                path:':id',
+                component:DetailsComponent,
+            },
+           
+        ]
       
     }
 
