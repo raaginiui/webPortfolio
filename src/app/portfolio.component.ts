@@ -5,7 +5,7 @@ import{Router} from '@angular/router';
 import {HomeComponent} from './home.component';
 import{CoursesService} from './course.service';
 import{DetailsComponent} from './detail.component';
-import{MdSidenav} from '@angular/material'
+import{MatSidenav} from '@angular/material'
 
 @Component({
   selector: 'port-app',
@@ -15,7 +15,7 @@ import{MdSidenav} from '@angular/material'
 export class PortfolioComponent implements OnInit
 
 { 
- @ViewChild('sidenav') input: MdSidenav;
+ @ViewChild('sidenav') input: MatSidenav;
   showup=true;
   showdown=false;
   id;

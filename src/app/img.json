@@ -1,0 +1,271 @@
+[ {
+  "categories" : [ "If...Else Template Conditions", "Animation Module", "TypeScript's StrictNullChecks", "Angular Universal", "Flattened ECMAScript Module" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Javascipt Framework",
+  "description" : "To develop single page applications ",
+  "id" : "0",
+  "image" : "http://www.nextontop.com/angularjs-development-company-chennai/images/angularjs.jpg",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Angular4",
+  "views" : 213
+}, {
+  "categories" : [ "Development of single page applications using AngularJs as a frontend JavaScript framework.", "Working in the Agile/Scrum development environment with frequently changing requirements and actively participated in scrum meetings and reviews.", "Expertise in using the MVC pattern for proving a great user interface.", "Created custom components and custom directives depending upon the need of the application.", "Composed the unit tests using Jasmine methods to ensure the proper working of controllers attached to component after the creation of the every new component in the application and used Karma to run the test cases in the separate browsers runs in background.", "Worked on nesting the scope to limit access to the properties of application components while providing access to shared model properties.", "Used Built-in filters to reformat the data in-order to display the data in required format and to filter the data based on a user search string. Created a Custom filters to attached a desired response of Boolean.", "Used Data Binding to create an easy means of communication between the view and model in the application.", "Expertise in composing the Event handlers in the Component Controller Class to enhance the user interface by making it the webpage more dynamic to user interactions.", "Worked in developing the End to End Testing Scenario using Protractor Framework after completion of a particular feature of the application.", "Added the Routing functionality to the application by using ngRoute Module which lets the user navigate from one view to different view inside the angular application.  ", "Added Deep linking feature of routing to the applications components view by using $routeProvider.", "I have used bootstrap classes to make it appear consistent among different devices with different viewport devices.", "Managing and implementing all code changes via Git. Deploying builds across development, staging and production instances and maintaining code integrity.", "Extensively used HTTP methods to fetch the data from the backend and to display it on the webpage.", "Expertise in creating the Services by registering to module either with provider or factory to increase the reusability of code." ],
+  "contact" : {
+    "email" : "janedoe@gmail.com",
+    "name" : "Jane Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Javascipt Framework",
+  "description" : "To develop single page applications",
+  "id" : "1",
+  "image" : "http://www.nextontop.com/angularjs-development-company-chennai/images/angularjs.jpg",
+  "posted" : "2015-10-28",
+  "price" : "1 years",
+  "title" : "Angular2",
+  "views" : 422
+}, {
+  "categories" : [ "Responsible for development of single page applications using angular2 as a front-end frame work,", "Used angular In-built validations for form validations for submitting the valid form.", "Responsible for writing the SQL quires for selecting, adding, deleting and updating the data in the MySQL database.", "In this project, we used the karma to set-up test platform with Jasmine as a framework.", "Worked in Test Driven Environment for unit testing of the components and services to ensure the expected behavior.", "Extensively tested the services by intercepting the HTTP calls before connecting to real server API.", "Created custom directives to add required behavior to the html element.", "Used Built-In Pipes to format the data and also created Custom Pipes to format the backend data into desired format.", "I have used HTTP methods extensively to retrieve the data from the rest API and used that data to update the page dynamically.", "Used RXJS Observables to ensure of getting desired type of http response data.", "Made use of Operators from RXJS library for formatting the response into the desired format.", "Responsible for Routing the application from the one component to the other component and the routing between the child components inside the parent component.", "Used Input directive for the communication between the components the parent component and child component and Output directive for vice versa.", "Responsible for testing the routing prior to merge, into the testing server.", "Make use of Bootstrap classes to fit the forms in all type of devices.", "Responsible in making sure the pattern is similar across all the web pages", "Worked closely with SQA team in fixing the reported bugs/defects and checking cross platform Compatibility." ],
+  "contact" : {
+    "email" : "janedoe@gmail.com",
+    "name" : "Jane Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Javascipt Framework",
+  "description" : "To develop single page applications",
+  "id" : "2",
+  "image" : "http://www.nextontop.com/angularjs-development-company-chennai/images/angularjs.jpg",
+  "posted" : "2015-10-27",
+  "price" : "4 years",
+  "title" : "AngularJs",
+  "views" : 23
+}, {
+  "categories" : [ "Used to run unit tests in angular frameworks ", "Test code on real browsers and real devices such as phones, tablets or on a headless PhantomJS instance.", "Control the whole workflow from the command line or your IDE - just save a file and Karma will run all the tests", "Describe the tests with Jasmine" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Testing",
+  "description" : "Used as Test runner to the run the angular test cases.",
+  "id" : "3",
+  "image" : "http://www.nextontop.com/angularjs-development-company-chennai/images/angularjs.jpg",
+  "posted" : "2015-10-24",
+  "price" : "4 years",
+  "title" : "Karma",
+  "views" : 213
+}, {
+  "categories" : [ "The Jasmine test framework provides everything needed to write basic tests. It ships with an HTML test runner that executes tests in the browse", "Used jasime methods to describe the tests and conditions for unit testing tests", "used to test services and angular routing" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Testing",
+  "description" : "To develop the test cases to test the angular applications",
+  "id" : "4",
+  "image" : "http://www.nextontop.com/angularjs-development-company-chennai/images/angularjs.jpg",
+  "posted" : "2015-10-24",
+  "price" : "4 years",
+  "title" : "Jasmine",
+  "views" : 213
+}, {
+  "categories" : [ "Use protractor to write and run end-to-end (e2e) tests. End-to-end tests explore the application as users experience it. In e2e testing, one process runs the real application and a second process runs protractor tests that simulate user behavior and assert that the application respond in the browser as expected." ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Testing",
+  "description" : "To develop End to End tests in angular applications",
+  "id" : "5",
+  "image" : "http://www.nextontop.com/angularjs-development-company-chennai/images/angularjs.jpg",
+  "posted" : "2015-10-24",
+  "price" : "4 years",
+  "title" : "Protractor",
+  "views" : 213
+}, {
+  "categories" : [ "Used to st" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Web Technologies",
+  "description" : "To structure the application",
+  "id" : "6",
+  "image" : "http://prosperagency.com/assets/img/html5.svg",
+  "posted" : "2015-11-01",
+  "price" : "4 years",
+  "title" : "HTML5",
+  "views" : 77
+}, {
+  "categories" : [ "work with features like Selectors, Box Model, Backgrounds and Borders, Image Values and Text Effects.", "Experience in working with CSS Preprocessors (LESS, SASS).", "Good knowledge in key frame animations" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Web Technologies",
+  "description" : "To design the application",
+  "id" : "7",
+  "image" : "http://prosperagency.com/assets/img/css3.svg",
+  "posted" : "2015-11-02",
+  "price" : "8 years",
+  "title" : "CSS3",
+  "views" : 889
+}, {
+  "categories" : [ "Web Technologies" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Web Technologies",
+  "description" : "To add dynamic nature to application",
+  "id" : "8",
+  "image" : "http://prosperagency.com/assets/img/js5.svg",
+  "posted" : "2015-11-03",
+  "price" : "5 years",
+  "title" : "JavaScript",
+  "views" : 423
+}, {
+  "categories" : [ "If...Else Template Conditions", "Animation Module", "TypeScript's StrictNullChecks", "Angular Universal", "Flattened ECMAScript Module" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Javascipt Framework",
+  "description" : "To add dynamic nature to application",
+  "id" : "9",
+  "image" : "https://ucarecdn.com/1a3b07af-7006-4bec-ab73-6faaf241b696/",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Jquery",
+  "views" : 213
+}, {
+  "categories" : [ "Web Technologies" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Web Technologies",
+  "description" : "To add Responsive nature to application",
+  "id" : "10",
+  "image" : "https://pbs.twimg.com/profile_images/788777950132830208/vgO3N1r7.jpg",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Bootstrap",
+  "views" : 213
+}, {
+  "categories" : [ "Managing and implementing all code changes via Git" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "version control system",
+  "description" : "Managing and implementing all code changes via Git",
+  "id" : "11",
+  "image" : "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Git",
+  "views" : 213
+}, {
+  "categories" : [ "Update a web page without reloading the page", "Request data from a server - after the page has loaded", "Receive data from a server - after the page has loaded", "Send data to a server - in the background" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Javascipt Methodology",
+  "description" : "Used to Request and Recive data from a serve",
+  "id" : "12",
+  "image" : "http://odutta.me/img/icons/ajax.png",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Ajax",
+  "views" : 213
+}, {
+  "categories" : [ "proprietary issue tracking" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "proprietary issue tracking",
+  "description" : "Used for bug tracking, issue tracking & project management",
+  "id" : "13",
+  "image" : "https://snaplogic-h.s3.amazonaws.com/uploads/snap/image/55/jira.jpg",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Jira",
+  "views" : 213
+}, {
+  "categories" : [ "software development methodologies" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : " software development methodologies",
+  "description" : "Used to build softeae in iterative and incremental process",
+  "id" : "14",
+  "image" : "https://www.fasttrackteam.com/Data/Sites/1/agile.jpg",
+  "posted" : "2015-10-24",
+  "price" : "0.5 years",
+  "title" : "Agile",
+  "views" : 213
+}, {
+  "categories" : [ "Designed a CRUD functionality of various resources using Java Servlets.", "Involved in the developing the markup of JSP within the application. ", "Developed the application by writing corresponding unit tests for various modules.", "Implementing the business logic required for the application.", "Involved in styling the application styles using the blueprint CSS framework.", "Developed JSPs and Servlets to dynamically generate HTML and display the data to the client side" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Java Technologies",
+  "description" : "to develop client-server web applications,",
+  "id" : "15",
+  "image" : "https://agoncal.files.wordpress.com/2014/05/java_ee_logo_vert_v2.png?w=281&h=300",
+  "posted" : "2015-11-03",
+  "price" : "2 years",
+  "title" : "Java",
+  "views" : 423
+}, {
+  "categories" : [ "Java" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Java Technologies",
+  "description" : "To connect the database",
+  "id" : "16",
+  "image" : "https://tech2our.com/wp-content/uploads/2017/04/jdbc-training-450x450.jpg",
+  "posted" : "2015-11-03",
+  "price" : "2 years",
+  "title" : "JDBC",
+  "views" : 423
+}, {
+  "categories" : [ "Database" ],
+  "contact" : {
+    "email" : "johndoe@gmail.com",
+    "name" : "John Doe",
+    "phone" : "(555) 555-5555"
+  },
+  "des" : "Database",
+  "description" : "To store application data",
+  "id" : "17",
+  "image" : "https://i0.wp.com/www.tejasbarot.com/wp-content/uploads//MySQLWorkbench.png",
+  "posted" : "2015-11-03",
+  "price" : "3 years",
+  "title" : "Mysql",
+  "views" : 423
+} ]

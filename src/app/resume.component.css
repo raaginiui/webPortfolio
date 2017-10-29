@@ -4,3 +4,17 @@ h4{
 .side{
     margin-left: 400px;
 }
+.container{
+font-size: 19px;
+}
+@media (max-width: 768px) { 
+    .container{
+font-size: 15px;
+}
+}
+ /* @media (min-width: 992px){
+     .container{
+font-size: 15px;
+}
+
+ } */

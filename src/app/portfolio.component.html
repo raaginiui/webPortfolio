@@ -1,41 +1,41 @@
-<div class="container" style="margin-top:100px">
+ <div class="container" style="margin-top:100px">
 
   <div class="row">
     
   
     <div class="col-lg-4" *ngFor="let course of courses" >
      
-      <md-card style=" width: 320px;margin:10px;" >
-   <md-sidenav-container class="example-container" style="width:270px;height:auto" > 
+      <mat-card style=" width: 320px;margin:10px;" >
+   <mat-sidenav-container class="example-container" style="width:270px;height:auto" > 
 
-  <md-card-header style="margin-top:10px">
-    <div md-card-avatar class="example-header-image"></div>
-    <md-card-title (click)="side(course.categories)" >{{ course.title }}</md-card-title>
-    <md-card-subtitle>{{ course.des }}</md-card-subtitle>
-  </md-card-header>
+  <mat-card-header style="margin-top:10px">
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title (click)="side(course.categories)" >{{ course.title }}</mat-card-title>
+    <mat-card-subtitle>{{ course.des }}</mat-card-subtitle>
+  </mat-card-header>
   <img  src="{{course.image}}" width="100%"height="auto" >
-  <md-card-content style="width:220px">
+  <mat-card-content style="width:220px">
    
       {{ course.description }}
     
-  </md-card-content>
-  <md-card-actions style="width:220px">
+  </mat-card-content>
+  <mat-card-actions style="width:220px">
   
-    <button md-button onClick="window.open('https://github.com/rajarshiwd');"> <i class="fa fa-github"></i> Github</button>
-    <button md-button (click)="sidenav.open()" ><i class="glyphicon glyphicon-arrow-up"></i> Details</button>
+    <button mat-button onClick="window.open('https://github.com/raagini77');"> <i class="fa fa-github"></i> Github</button>
+    <button mat-button (click)="sidenav.open()" ><i class="glyphicon glyphicon-arrow-up"></i> Details</button>
     
-  </md-card-actions>
-     <md-sidenav #sidenav class="example-sidenav" style="width:200px" >
+  </mat-card-actions>
+     <mat-sidenav #sidenav class="example-sidenav" style="width:200px" >
     <ul *ngFor="let cour of course.categories" >
       <li>
         {{cour}}
       </li>
     </ul>
      
-  </md-sidenav>
+  </mat-sidenav>
 
-   </md-sidenav-container>
-</md-card>
+   </mat-sidenav-container>
+</mat-card>
  
     </div>
     
@@ -48,4 +48,4 @@
 
 
 
-
+ 

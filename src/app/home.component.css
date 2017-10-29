@@ -2,6 +2,11 @@ body {
 font-family: 'Open Sans', sans-serif;  
 }
 @media (max-width: 768px) { 
+  .btn{
+padding: 15px 18px;
+        font-size: 15px;
+        border-radius: 15px;
+}
   .sec-home {
   text-align: center;
   background: url('https://images.pexels.com/photos/374710/pexels-photo-374710.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center fixed;
@@ -20,10 +25,13 @@ font-family: 'Open Sans', sans-serif;
 .sec-home h2 {
   text-align: center;
   color: #fff;
-  font-size: 30px;
+  font-size: 40px;
   padding-top: 100px;
   font-weight: bold;
-  text-shadow: #300 4px 4px;
+  text-shadow: black 5px 5px;
+}
+.sec-home h4{
+  text-align: center;color: #fff;font-size: 15px;
 }
 #about{
 	height: 600px;
@@ -50,6 +58,11 @@ font-family: 'Open Sans', sans-serif;
 
  @media (min-width: 992px)
   { 
+    .btn{
+padding: 15px 18px;
+        font-size: 25px;
+        border-radius: 15px;
+}
 .sec-home {
   text-align: center;
   background: url('https://images.pexels.com/photos/374710/pexels-photo-374710.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center center fixed;
@@ -68,10 +81,13 @@ font-family: 'Open Sans', sans-serif;
 .sec-home h2 {
   text-align: center;
   color: #fff;
-  font-size: 60px;
+  font-size: 80px;
   padding-top: 100px;
   font-weight: bold;
-  text-shadow: #300 4px 4px;
+  text-shadow: #300 8px 8px;
+}
+.sec-home h4{
+  text-align: center;color: #fff;font-size: 25px;
 }
 #about{
 	height: 600px;
@@ -109,13 +125,13 @@ font-family: 'Open Sans', sans-serif;
 
 
 
-
-.sec-home p {
+/* 
+ h4{
   text-align: center;
   color: #fff;
   font-size: 20px;
   padding-top: 3px;
- }
+ } */
 
 
 

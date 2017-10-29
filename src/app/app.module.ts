@@ -4,16 +4,16 @@ import { RouterModule } from '@angular/router';
 import{routing} from './app.route';
  import {HttpModule} from '@angular/http';
  import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
- import {MdButtonModule, 
-  MdCheckboxModule,
+ import {MatButtonModule, 
+  MatCheckboxModule,
   
-  MdCardModule,
-MdToolbarModule,
-MdDatepickerModule,
-MdInputModule,
-MdNativeDateModule,
-MdGridListModule} from '@angular/material';
-import {MdSidenavModule} from '@angular/material';
+  MatCardModule,
+MatToolbarModule,
+MatDatepickerModule,
+MatInputModule,
+MatNativeDateModule,
+MatGridListModule, MatSidenavModule} from '@angular/material';
+
 import 'hammerjs';
 
 import { AppComponent }  from './app.component';
@@ -34,15 +34,15 @@ import{ResumeComponent} from './resume.component'
     HttpModule, 
     routing,
     BrowserAnimationsModule,
-   MdButtonModule, 
-  MdCheckboxModule,
- MdSidenavModule,
-  MdCardModule,
-  MdGridListModule,
-MdToolbarModule,
-MdDatepickerModule,
-MdInputModule,
-MdNativeDateModule
+   MatButtonModule, 
+  MatCheckboxModule,
+ MatSidenavModule,
+  MatCardModule,
+  MatGridListModule,
+MatToolbarModule,
+MatDatepickerModule,
+MatInputModule,
+MatNativeDateModule
   ],
 
   declarations: 
